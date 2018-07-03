@@ -37,6 +37,7 @@ Note: This section shows the information of the ticket (showing also the list of
 **Ticket Form**
 ![Ticket Form](https://github.com/ntidev/ticket-exam/blob/master/assets/ticket_form.png)
 Note: This section shows the form for the tickets
+Note: The list of statuses can be pre-populated by you.
 
 **Ticket Time Entry Form**
 ![Ticket Time Entry Form](https://github.com/ntidev/ticket-exam/blob/master/assets/ticket_note_form.png)
@@ -59,12 +60,13 @@ Note: Initially, no data needs to be displayed until a date range is specified a
 In order for you to get more points on this test, you have the **option** to perform **one or more** of the following additional tasks which would get you **more points** and therefore better chances of landing the interview:
 
 1. Multiple employees assigned to tickets
-2. Clean Front-End
-3. Use a well known front-end framework/library (VueJS, ReactJS, AngularJS)
-4. Implement TDD (Test Driven Development)
-5. Form Validations (Back End and Front End)
-5. Code Complexity Analisis
-6. Documentation
+2. Add ticket statuses dynamically
+3. Clean Front-End
+4. Use a well known front-end framework/library (VueJS, ReactJS, AngularJS)
+5. Implement TDD (Test Driven Development)
+6. Form Validations (Back End and Front End)
+7. Code Complexity Analisis
+8. Documentation
 
 ### Submission
 
@@ -77,3 +79,6 @@ In order for the submission of the test to be successful you need to perform the
 5. When ready to submit, reply to the pre-existent email trail with the link to your repository.
 
 
+### Questions
+
+If you have any questions or doubts regarding what needs to be done feel free to contact us using the same email trail and we will be happy to assist you.
