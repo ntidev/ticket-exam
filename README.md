@@ -36,15 +36,15 @@ Note: This section shows the information of the ticket (showing also the list of
 
 **Ticket Form**
 ![Ticket Form](https://github.com/ntidev/ticket-exam/blob/master/assets/ticket_form.png)
-Note: This section shows the form for the tickets
-Note: The list of statuses can be pre-populated by you.
+- Note: This section shows the form for the tickets
+- Note: The list of statuses can be pre-populated by you.
 
 **Ticket Time Entry Form**
 ![Ticket Time Entry Form](https://github.com/ntidev/ticket-exam/blob/master/assets/ticket_note_form.png)
 Note: This section shows the form to add time entries to the ticket
 
 **Employees**
-![Employees](https://github.com/ntidev/ticket-exam/blob/master/assets/list_of_employees.png)
+![Employees](https://github.com/ntidev/ticket-exam/blob/master/assets/employees.png)
 Note: This section shows the list of employees.
 
 **Employee Form**
