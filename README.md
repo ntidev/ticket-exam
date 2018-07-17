@@ -4,6 +4,8 @@ This is a test exam to be done as part of the recruitment processes at Net Tech 
 
 The test has a time to completion of **7 days** after the initial email is sent by one of our members.
 
+**IMPORTANT: THE COMPLETION OF THIS TEST DOES NOT GUARANTEE THE SECONDARY INTERVIEW IN OUR FACILITIES**
+
 ### Test
 
 The test consists of a basic **Ticket System** which includes the following modules:
