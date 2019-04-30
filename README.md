@@ -78,6 +78,12 @@ In order for the submission of the test to be successful you need to perform the
 2. All the code must be hosted under your personal GitHub account.
 3. If a database is used, make sure to provide the initial structure for it as well (also inside your repository)
 4. There must be a README.md in the root of your repository explaining in detail how to run your application.
+**IMPORTANT**
+- **NOTE THAT IF YOU LEAVE OUT CRUCIAL DETAILS ON HOW TO SETUP YOUR APPLICATION WE MAY NOT BE ABLE TO TEST IT.**
+- **ALSO TAKE INTO CONSIDERATION THAT THIS APPLICATION WILL NOT RUN ON YOUR COMPUTER, IT WILL RUN ON SOMEONE ELSE'S.**
+- **AS A COMMON PRACTICE, TRY TO MAKE YOUR SETUP AS USER FRIENDLY AND AS EASY AS POSSIBLE. WE MAY ASSIGN SOMEONE WHO'S NOT A PROGRAMMER TO SETUP YOUR APPLICATION AS PART OF THE EVALUATION.**
+- **DOCUMENTATION IS VERY IMPORTANT.**
+
 5. When ready to submit, reply to the pre-existent email trail with the link to your repository.
 
 
