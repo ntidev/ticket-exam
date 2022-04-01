@@ -4,7 +4,7 @@ This is a test exam to be done as part of the recruitment processes at Net Tech 
 
 The test has a time to completion of **7 days** after the initial email is sent by one of our members.
 
-**IMPORTANT: THE COMPLETION OF THIS TEST DOES NOT GUARANTEE THE SECONDARY INTERVIEW IN OUR FACILITIES**
+**IMPORTANT: THE COMPLETION OF THIS TEST DOES NOT GUARANTEE THAT A CANDIDATE WILL GET HIRED**
 
 ### Test
 
